@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
 
-public class MazeGenerator : MonoBehaviour
+public class MakeMaker : MonoBehaviour
 {
 
     [SerializeField] private MazeCell mazeCellPrefab;
